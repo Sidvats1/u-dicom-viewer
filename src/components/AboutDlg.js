@@ -13,7 +13,7 @@ import packageJson from '../../package.json'
 
 const AboutDlg = ({ onClose }) => {
 
-    const urlRepository = "https://github.com/webnamics/u-dicom-viewer/"
+    const urlRepository = "https://github.com/Sidvats1/u-dicom-viewer/"
 
     const linkRepository = (
         <Typography variant='body2'>
